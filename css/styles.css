@@ -1,3 +1,7 @@
+body{
+    margin: 0px;
+}
+
 .mainheader {
     display: flex;
     background-image: url(../image/header_image.avif);
