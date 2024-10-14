@@ -4,11 +4,3 @@ img {
     width: 300px;
     height: 200px;
 }
-text{
-    width: 400px;
-    height: 200px;
-}
-
-article {
-    display: flexbox;
-}
